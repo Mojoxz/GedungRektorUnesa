@@ -1,0 +1,7 @@
+﻿  cobq.cpp
+D:\KULIAH SEMSTER 3\Grafkom\new\cobq.cpp(48,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\KULIAH SEMSTER 3\Grafkom\new\cobq.cpp(59,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\KULIAH SEMSTER 3\Grafkom\new\cobq.cpp(70,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\KULIAH SEMSTER 3\Grafkom\new\cobq.cpp(81,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\KULIAH SEMSTER 3\Grafkom\new\cobq.cpp(104,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  new.vcxproj -> D:\KULIAH SEMSTER 3\Grafkom\new\Debug\new.exe

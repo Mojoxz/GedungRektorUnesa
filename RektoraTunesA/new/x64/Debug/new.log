@@ -1,0 +1,3 @@
+﻿  cobq.cpp
+D:\KULIAH SEMSTER 3\Grafkom\new\cobq.cpp(8,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
